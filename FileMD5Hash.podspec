@@ -6,5 +6,5 @@ Pod::Spec.new do |spec|
     spec.homepage = 'https://github.com/JoeKun/FileMD5Hash'
     spec.author   = { 'Joel Lopes Da Silva' => 'joel@lopes-da-silva.com' }
     spec.source   = { :git => 'https://github.com/pablocarrillo/FileMD5Hash.git', :tag => '0.0.1' }
-    spec.source_files = 'Common/*.{h,m}'
+    spec.source_files = 'Common/*.{h,c}'
 end
